@@ -1,0 +1,6 @@
+// getElementById
+// getElementByTagName
+// getElementByClassName
+
+// querySelector
+
