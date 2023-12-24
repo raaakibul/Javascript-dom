@@ -4,3 +4,4 @@
 
 // querySelector
 
+document.querySelector(".paragraph").innerHTML = "This is a paragraph added from the dom file"
